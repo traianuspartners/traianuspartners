@@ -8,7 +8,7 @@ So, you stumbled upon us, huh? Well, let us introduce ourselves. We're TraianusP
 
 ## What We Do 💼
 
-### Market Making 📈
+### Market Making 📈📊
 
 You know those wild rides in the crypto rollercoaster? We're the ones who make sure there's never a dull moment! Our algorithms? Yeah, they're like magic spells ✨, keeping those spreads tight and the prices on their best behavior.
 
@@ -19,7 +19,7 @@ Need a pool to dive into? We gotchu covered! Whether you're a big shot investor 
 ## Why Choose Us? 🤔
 
 - **Expertise**: We've got the brains and the brawns! Our team is like a bunch of crypto wizards 🧙‍♂️, always brewing up new tricks.
-- **Reliability**: We're as solid as a blockchain! When we say we've got your back, we mean it.
+- **Reliability**: We're as solid as a blockchain! 💻 When we say we've got your back, we mean it.
 - **Innovation**: We're not just riding the wave, we're making it! Innovation is our middle name... well, not really, but you get the point! 🌊
 
 ## Get in Touch! 📞
